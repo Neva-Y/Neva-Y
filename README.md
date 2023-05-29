@@ -1,8 +1,12 @@
-<h1 align="center">Welcome to my page! 👋</h1>
 
 <p align="center">
+  <a href="https://github.com/Neva-Y">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neva-Y&theme=blue_green" />
+  </a>
+</p>
+<h1 align="center">Welcome to my page! 👋</h1>
+<p align="center">
     <i>
-        I'm Yang 💬.<br>
         Currently working as a backend SWE.<br>
         Completed M.Eng specialising in Mechatronics.<br>
         Open to collaborating on interesting and innovative projects.<br>
@@ -19,11 +23,7 @@
 [//]: # (    </a>)
 </p>
 
-<p align="center">
-  <a href="https://github.com/Neva-Y">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neva-Y&theme=blue_green" />
-  </a>
-</p>
+
 
 ### Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?&style=for-the-badge&logo=kotlin&logoColor=white)
