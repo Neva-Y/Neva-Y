@@ -3,8 +3,8 @@
 <p align="center">
     <i>
         I'm Yang.<br>
+        Currently working as a backend SWE.<br>
         Completed M.Eng specialising in Mechatronics.<br>
-        Currently working as a backend software engineer.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/xing-yang-goh">
