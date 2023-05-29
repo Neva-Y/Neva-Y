@@ -1,10 +1,6 @@
 
-<p align="center">
-  <a href="https://github.com/Neva-Y">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neva-Y&theme=blue_green" />
-  </a>
-</p>
 <h1 align="center">Welcome to my page! 👋</h1>
+
 <p align="center">
     <i>
         Currently working as a backend SWE.<br>
@@ -24,6 +20,11 @@
 </p>
 
 
+<p align="center">
+  <a href="https://github.com/Neva-Y">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neva-Y&theme=blue_green" />
+  </a>
+</p>
 
 ### Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?&style=for-the-badge&logo=kotlin&logoColor=white)
