@@ -32,16 +32,16 @@
 
 ### Technologies & Frameworks
 ![Gradle](https://img.shields.io/badge/Gradle-black.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-black.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-black.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Rancher](https://img.shields.io/badge/rancher-black.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-black.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Rancher](https://img.shields.io/badge/rancher-black.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white)
 ![Splunk](https://img.shields.io/badge/splunk-black.svg?style=for-the-badge&logo=splunk&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Latex](https://img.shields.io/badge/latex-black.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-black.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Machine Learning
 ![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)
