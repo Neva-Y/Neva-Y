@@ -3,6 +3,7 @@
 <p align="center">
     <i>
         I'm Yang.<br>
+        Completed M.Eng specialising in Mechatronics.<br>
         Currently working as a backend software engineer.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
