@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my page! 👋></h1>
+<h1 align="center">Welcome to my page! 👋</h1>
 
 <p align="center">
     <i>
