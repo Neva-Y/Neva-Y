@@ -19,6 +19,12 @@
 [//]: # (    </a>)
 </p>
 
+<p align="center">
+  <a href="https://github.com/Neva-Y">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neva-Y&theme=blue_green" />
+  </a>
+</p>
+
 ### Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
@@ -50,7 +56,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<details>
+<!-- <details>
 <p align="center">
   <a href="https://github.com/Neva-Y">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neva-Y&theme=blue_green" />
@@ -65,5 +71,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neva-Y&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-</details>
+</details> -->
 
