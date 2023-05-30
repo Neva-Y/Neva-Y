@@ -4,8 +4,8 @@
 <p align="center">
     <i>
         Backend SWE.<br>
-        Completed M.Eng specialising in Mechatronics.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        M.Eng specialising in Mechatronics.<br>
+        Open to collaborating on innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/xing-yang-goh">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
