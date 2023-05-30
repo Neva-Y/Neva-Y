@@ -3,7 +3,7 @@
 
 <p align="center">
     <i>
-        Currently working as a backend SWE.<br>
+        Backend SWE.<br>
         Completed M.Eng specialising in Mechatronics.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
