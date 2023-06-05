@@ -32,13 +32,13 @@
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Technologies & Frameworks
 ![Gradle](https://img.shields.io/badge/Gradle-black.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-black.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Rancher](https://img.shields.io/badge/rancher-black.svg?style=for-the-badge&logo=rancher&logoColor=white)
