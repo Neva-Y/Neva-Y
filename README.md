@@ -26,7 +26,7 @@
 
 ### Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-black.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
