@@ -18,11 +18,11 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Neva-Y">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neva-Y&theme=blue_green" />
   </a>
-</p>
+</p> -->
 
 ### Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?&style=for-the-badge&logo=kotlin&logoColor=white)
