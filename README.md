@@ -47,7 +47,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Latex](https://img.shields.io/badge/latex-black.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-black.svg?style=for-the-badge&logo=jira&logoColor=white)
-
+![Cucumber](https://img.shields.io/badge/Cucumber-black.svg?style=for-the-badge&logo=jira&logoColor=white)
 ### Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-black.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
